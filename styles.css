@@ -122,7 +122,7 @@ iframe {
   align-items: center;
   color: white;
   height: 500px;
-  margin-top: 3rem;
+  margin-top: 7rem;
 }
 .contact-text h2 {
   font-size: 3rem;
@@ -139,7 +139,7 @@ svg {
 
 .email-req {
   height: 500px;
-  margin-top: 3rem;
+  margin-top: 7rem;
 }
 
 .email-req h2 {
@@ -172,6 +172,9 @@ svg {
   background: black;
   border: none;
   /* display: block; */
+}
+#price {
+  scroll-margin-top: 50px;
 }
 
 @media (max-width: 1100px) {
